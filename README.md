@@ -1,4 +1,10 @@
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=40&width=500&height=60&lines=a2g2" style="display: inline ">
+  </a>
+</h1>
+
 Hi 👋 My name is Amol Aggarwal (a2g2)
 ==============================
 
@@ -20,6 +26,11 @@ Cybersecurity and Data-Science Enthusiast
 <a href="https://twitter.com/a2g2_official" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/a2g2_official?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
 /></a>
+
+### Technologies
+
+<image src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <image src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <image src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <image src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">  <image src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">   
+<image src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">  <image src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"> <image src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
 ### Skills
 
