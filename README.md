@@ -10,7 +10,7 @@ Cybersecurity and Data-Science Enthusiast
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
    
-  Cybersecurity majorily Cryptography made me fall in love with coding and exploiting various programs along with participating in various CTF (Capture the Flags)
+  Cybersecurity majorily Cryptography made me fall in love with coding and exploiting various programs along with participating in various CTF (Capture the Flags) events.
 
 * 🌍  I'm based in India; currently pursuing undergrad at BITS Pilani
 * ✉️  You can contact me at [amolstudent1@gmail.com](mailto:amolstudent1@gmail.com)
