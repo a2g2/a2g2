@@ -8,7 +8,7 @@
 Hi 👋 My name is Amol Aggarwal (a2g2)
 ==============================
 
-Data Science and Cybersecurity(OSINT Research) Enthusiast
+Data Science and Cybersecurity (OSINT Research) Enthusiast
 -----------------
 
 
